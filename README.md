@@ -26,12 +26,14 @@ E-Commerce application developed for performing Admin and Customer user role ope
   * MySQL
   * JWT Token (Session management)
 
-#### Web services project can be found in ()
+#### Web services project can be found in (github.com/official-Mzwandile/ecomm-backend-springboot)
 
 ---------
 ### Development server
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) 
+
+Run `npm install` to install the node modules
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 

@@ -1,0 +1,15 @@
+.card-text{
+    height: 50px;
+    overflow: hidden;
+  }
+.mybtn{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.mybtnclr{
+    margin-left:10px;
+}
+
+h1 {text-align: center;}
+
+h2 {text-align: center;}
